@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Juani 👋
 
-<!--
-**Juani270189/Juani270189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Estoy aprendiendo desarrollo web y formándome como desarrollador Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy estudiando Web Development en Web Dev Open y trabajando en proyectos prácticos para desarrollar mis habilidades.
+
+## Actualmente estoy aprendiendo
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Visual Studio Code
+
+## Mi objetivo
+
+Convertirme en desarrollador Full Stack y cambiar profesionalmente al sector del desarrollo web.
+
+## Proyectos
+
+Actualmente estoy construyendo mis primeros proyectos y prácticas durante mi formación.
